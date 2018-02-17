@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.AI;
+﻿using UnityEngine;
+using System;
 
 public class PlayerMovement : MonoBehaviour
 {
 
-	public float speed = 0.0001f;
+	private float _speed = 10f;
 	public GameObject groundCheck;
 	
 	// Use this for initialization
@@ -25,23 +22,24 @@ public class PlayerMovement : MonoBehaviour
 		float hor = Input.GetAxis("Horizontal");
 		Vector2 sideCheck = new Vector2(transform.position.x + (Math.Sign(hor)*0.5f), transform.position.y);
 		bool sideStop = Physics2D.Linecast(transform.position, sideCheck, 1 << LayerMask.NameToLayer("Walls"));
-		float tx = 0;
-		
+
+		float tx = 0f;
+		// 
 		float vert = Input.GetAxis("Vertical");
 		Vector2 topCheck = new Vector2(transform.position.x, transform.position.y + (Math.Sign(vert)*0.5f));
 		bool topStop = Physics2D.Linecast(transform.position, topCheck, 1 << LayerMask.NameToLayer("Walls"));
-		float ty = 0;
+		float ty = 0f;
 		groundCheck.transform.position = topCheck;
-
+			
 		if (!sideStop)
 		{
-			tx = hor * speed;
+			tx = hor * _speed;
 			tx *= Time.deltaTime;
 		}
 
 		if (!topStop)
 		{
-			ty = vert * speed;
+			ty = vert * _speed;
 			ty *= Time.deltaTime;
 		}
 
