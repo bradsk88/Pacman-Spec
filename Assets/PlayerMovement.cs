@@ -1,49 +1,70 @@
 ﻿using UnityEngine;
 using System;
+using UnityEngine.Networking;
+using UnityEngine.XR.WSA;
 
 public class PlayerMovement : MonoBehaviour
 {
+    private const float Speed = 0.1f;
+    public GameObject groundCheck;
+    public GameObject groundCheck2;
+    private bool moving;
+    private Vector2 _target;
+    private Vector2 _target2;
 
-	private float _speed = 10f;
-	public GameObject groundCheck;
-	
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    private void Start()
+    {
+        groundCheck2 = Instantiate(groundCheck);
+        var material = groundCheck2.GetComponent<Renderer>().material;
+        material.shader = Shader.Find("Specular");
+        material.SetColor("_SpecColor", Color.red);
+        _target = transform.position;
+        _target2 = transform.position;
+    }
 
-	private void FixedUpdate()
-	{
-		float hor = Input.GetAxis("Horizontal");
-		Vector2 sideCheck = new Vector2(transform.position.x + (Math.Sign(hor)*0.5f), transform.position.y);
-		bool sideStop = Physics2D.Linecast(transform.position, sideCheck, 1 << LayerMask.NameToLayer("Walls"));
+    private void FixedUpdate()
+    {
+        Debug.DrawLine(transform.position, _target);
+        Debug.DrawLine(_target, _target2);
+        groundCheck.transform.position = _target;
+        groundCheck2.transform.position = _target2;
+        
+        transform.position = Vector2.MoveTowards(transform.position, _target, Speed);
+        if (new Vector2(transform.position.x, transform.position.y).Equals(_target))
+        {        
+            if (_target.Equals(_target2))
+            {
+                moving = false;
+                return;
+            }
+            
 
-		float tx = 0f;
-		// 
-		float vert = Input.GetAxis("Vertical");
-		Vector2 topCheck = new Vector2(transform.position.x, transform.position.y + (Math.Sign(vert)*0.5f));
-		bool topStop = Physics2D.Linecast(transform.position, topCheck, 1 << LayerMask.NameToLayer("Walls"));
-		float ty = 0f;
-		groundCheck.transform.position = topCheck;
-			
-		if (!sideStop)
-		{
-			tx = hor * _speed;
-			tx *= Time.deltaTime;
-		}
+            
+            bool stop = Physics2D.Linecast(_target, _target2, 1 << LayerMask.NameToLayer("Walls"));
+            if (stop)
+            {
+                moving = false;
+                return;
+            }
+            _target = _target2;
+        }
+    }
 
-		if (!topStop)
-		{
-			ty = vert * _speed;
-			ty *= Time.deltaTime;
-		}
+    private void Update()
+    {
+        var hor = Input.GetAxis("Horizontal");
+        var vert = Input.GetAxis("Vertical");
 
-		transform.Translate(tx, ty, 0);
-	}
+        var htarget = new Vector2(_target.x + Math.Sign(hor), _target.y);
+        var vtarget = new Vector2(_target.x, _target.y + Math.Sign(vert));
 
+        if (Math.Abs(hor) > Math.Abs(vert)) // pushing more on L/R and U/D
+        {
+            _target2 = htarget;
+        }
+        else
+        {
+            _target2 = vtarget;
+        }
+    }
 }

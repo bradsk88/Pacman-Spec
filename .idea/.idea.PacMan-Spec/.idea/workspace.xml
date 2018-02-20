@@ -1,7 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4f32399-ff54-4864-9529-38fa8c6e34b8" name="Default" comment="" />
+    <list default="true" id="e4f32399-ff54-4864-9529-38fa8c6e34b8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/New Material.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/New Material.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Palettes.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Palettes/GroundTiles.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Palettes/GroundTiles/Ground TIles.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Palettes/GroundTiles/Ground TIles.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_0.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_0.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_1.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_1.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_10.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_10.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_11.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_11.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_12.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_12.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_13.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_13.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_14.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_14.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_15.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_15.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_16.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_16.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_17.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_17.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_18.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_18.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_19.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_19.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_2.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_2.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_20.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_20.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_21.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_21.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_22.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_22.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_23.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_23.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_24.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_24.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_25.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_25.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_26.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_26.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_27.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_27.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_28.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_28.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_29.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_29.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_3.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_3.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_30.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_30.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_31.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_31.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_32.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_32.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_33.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_33.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_34.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_34.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_35.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_35.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_36.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_36.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_37.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_37.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_38.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_38.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_39.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_39.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_4.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_4.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_40.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_40.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_41.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_41.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_42.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_42.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_43.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_43.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_44.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_44.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_45.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_45.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_46.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_46.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_47.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_47.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_48.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_48.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_49.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_49.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_5.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_5.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_6.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_6.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_7.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_7.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_8.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_8.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_9.asset" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_9.asset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/master-tileset.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/master-tileset.png.meta" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PacMan-Spec/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.PacMan-Spec/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerMovement.cs" afterPath="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/pman.png" afterPath="$PROJECT_DIR$/Assets/pman.png" />
+      <change beforePath="$PROJECT_DIR$/Assets/scene.unity" afterPath="$PROJECT_DIR$/Assets/scene.unity" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,47 +128,112 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="false" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dot.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Dot.cs">
+      <file leaf-file-name="PlayerMovement.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PlayerMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="425">
+              <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
               <folding>
-                <marker date="1518826397537" expanded="true" signature="53:245" ph="{...}" />
-                <marker date="1518826397537" expanded="true" signature="104:243" ph="{...}" />
-                <marker date="1518826397537" expanded="true" signature="187:240" ph="{...}" />
+                <marker date="1519099010983" expanded="true" signature="6:88" ph="..." />
+                <marker date="1519099010983" expanded="true" signature="133:1984" ph="{...}" />
+                <marker date="1519099010983" expanded="true" signature="354:666" ph="{...}" />
+                <marker date="1519099010983" expanded="true" signature="698:1507" ph="{...}" />
+                <marker date="1519099010983" expanded="true" signature="1082:1501" ph="{...}" />
+                <marker date="1519099010983" expanded="true" signature="1142:1226" ph="{...}" />
+                <marker date="1519099010983" expanded="true" signature="1375:1459" ph="{...}" />
+                <marker date="1519099010983" expanded="true" signature="1534:1982" ph="{...}" />
+                <marker date="1519099010983" expanded="true" signature="1859:1911" ph="{...}" />
+                <marker date="1519099010983" expanded="true" signature="1924:1976" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DotSpawning.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/DotSpawning.cs">
+      <file leaf-file-name="pman.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/pman.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scene.unity" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scene.unity">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="42" column="68" lean-forward="false" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
-              <folding>
-                <marker date="1518828484085" expanded="true" signature="6:114" ph="..." />
-                <marker date="1518828484085" expanded="true" signature="156:1296" ph="{...}" />
-                <marker date="1518828484085" expanded="true" signature="241:383" ph="{...}" />
-                <marker date="1518828484085" expanded="true" signature="455:1145" ph="{...}" />
-                <marker date="1518828484085" expanded="true" signature="477:496" ph="{...}" />
-                <marker date="1518828484085" expanded="true" signature="809:1084" ph="{...}" />
-                <marker date="1518828484085" expanded="true" signature="845:869" ph="{...}" />
-                <marker date="1518828484085" expanded="true" signature="892:1080" ph="{...}" />
-                <marker date="1518828484085" expanded="true" signature="1202:1294" ph="{...}" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Physics2D.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EC8377FC-D78F-497D-A2D4-D301B877CA10/a0/85c059ea/Physics2D.cs">
+      <file leaf-file-name="Tiles.meta" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Tiles.meta">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="534" column="25" lean-forward="false" selection-start-line="534" selection-start-column="25" selection-end-line="534" selection-end-column="25" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectVersion.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assembly-CSharp-Editor-firstpass.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assembly-CSharp.csproj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ground TIles.prefab" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Palettes/GroundTiles/Ground TIles.prefab">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="New Material.mat.meta" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/New Material.mat.meta">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Palettes.meta" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Palettes.meta">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,8 +253,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CEA48D7-1C05-4AF9-B2CC-0C49F5FE7454/31/1bb201ef/Bounds.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/DotSpawning.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EC8377FC-D78F-497D-A2D4-D301B877CA10/a0/85c059ea/Physics2D.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EC8377FC-D78F-497D-A2D4-D301B877CA10/a0/85c059ea/Physics2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Dot.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -78,6 +265,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Dot.cs" />
         <option value="$PROJECT_DIR$/Assets/DotSpawning.cs" />
+        <option value="$PROJECT_DIR$/Assets/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
       </list>
     </option>
   </component>
@@ -159,12 +348,13 @@
       <option name="presentableId" value="Default" />
       <updated>1518567667231</updated>
       <workItem from="1518567670264" duration="987000" />
-      <workItem from="1518826311840" duration="2575000" />
+      <workItem from="1518826311840" duration="2942000" />
+      <workItem from="1519090957930" duration="7446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3562000" />
+    <option name="totallyTimeSpent" value="11375000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -176,18 +366,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="2127" y="101" width="1922" height="1061" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18697916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19156884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -213,53 +402,413 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Dot.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_34.asset.meta">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_35.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_35.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_36.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_36.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_37.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Score.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <marker date="1518826397537" expanded="true" signature="53:245" ph="{...}" />
-            <marker date="1518826397537" expanded="true" signature="104:243" ph="{...}" />
-            <marker date="1518826397537" expanded="true" signature="187:240" ph="{...}" />
+            <marker date="1518566788453" expanded="false" signature="6:40" ph="..." />
+            <marker date="1518566788453" expanded="true" signature="77:338" ph="{...}" />
+            <marker date="1518566788453" expanded="true" signature="207:243" ph="{...}" />
+            <marker date="1518566788453" expanded="true" signature="298:336" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dot.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CEA48D7-1C05-4AF9-B2CC-0C49F5FE7454/31/1bb201ef/Bounds.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding>
-            <marker date="1518826397537" expanded="true" signature="53:245" ph="{...}" />
-            <marker date="1518826397537" expanded="true" signature="104:243" ph="{...}" />
-            <marker date="1518826397537" expanded="true" signature="187:240" ph="{...}" />
-          </folding>
+        <state relative-caret-position="309">
+          <caret line="146" column="19" lean-forward="false" selection-start-line="146" selection-start-column="19" selection-end-line="146" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EC8377FC-D78F-497D-A2D4-D301B877CA10/a0/85c059ea/Physics2D.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
+        <state relative-caret-position="9612">
           <caret line="534" column="25" lean-forward="false" selection-start-line="534" selection-start-column="25" selection-end-line="534" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DotSpawning.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_37.asset.meta">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="42" column="68" lean-forward="false" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
-          <folding>
-            <marker date="1518828484085" expanded="true" signature="6:114" ph="..." />
-            <marker date="1518828484085" expanded="true" signature="156:1296" ph="{...}" />
-            <marker date="1518828484085" expanded="true" signature="241:383" ph="{...}" />
-            <marker date="1518828484085" expanded="true" signature="455:1145" ph="{...}" />
-            <marker date="1518828484085" expanded="true" signature="477:496" ph="{...}" />
-            <marker date="1518828484085" expanded="true" signature="809:1084" ph="{...}" />
-            <marker date="1518828484085" expanded="true" signature="845:869" ph="{...}" />
-            <marker date="1518828484085" expanded="true" signature="892:1080" ph="{...}" />
-            <marker date="1518828484085" expanded="true" signature="1202:1294" ph="{...}" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_38.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_38.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_39.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_39.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_4.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_4.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_40.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_40.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_41.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_41.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_42.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_42.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_43.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_43.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_44.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_44.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_45.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_45.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_46.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_46.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_47.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_47.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_48.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_48.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_49.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_49.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_5.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_5.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_6.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_6.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_7.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_7.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_8.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_8.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_9.asset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles/master-tileset_9.asset.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles/GroundTiles.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tiles/GroundTiles.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/master-tileset.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/master-tileset.png.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/New Material.mat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
