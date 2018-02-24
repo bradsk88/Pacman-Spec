@@ -12,6 +12,8 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 _target;
     private Vector2 _target2;
 
+    private bool dead;
+
     private void Start()
     {
         groundCheck2 = Instantiate(groundCheck);
@@ -24,6 +26,12 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (dead)
+        {
+            transform.Rotate(0,0,300*Time.deltaTime);
+        }
+        
+        
         Debug.DrawLine(transform.position, _target);
         Debug.DrawLine(_target, _target2);
         groundCheck.transform.position = _target;
@@ -52,6 +60,15 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
+        if (dead)
+        {
+            return;
+        }
+        GetInput();
+    }
+
+    private void GetInput()
+    {
         var hor = Input.GetAxis("Horizontal");
         var vert = Input.GetAxis("Vertical");
 
@@ -65,6 +82,15 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             _target2 = vtarget;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "Ghost")
+        {
+            dead = true;
+            Destroy(other);
         }
     }
 }

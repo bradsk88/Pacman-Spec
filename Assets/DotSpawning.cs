@@ -12,7 +12,7 @@ public class DotSpawning : MonoBehaviour
 	// Use this for initialization
 	void Start () {
 		Debug.Log("Initial dot position: " + _initialDot.transform.position);
-		spawn(new List<Vector2>(), _initialDot.transform.position, 0);	
+		spawn(new List<Vector2>(), _initialDot.transform.position, 0);
 	}
 
 	private void spawn(List<Vector2> spawnsSoFar, Vector2 dot, int depth)
@@ -37,13 +37,11 @@ public class DotSpawning : MonoBehaviour
 			if (isGood(dot, s))
 			{
 				spawnsSoFar.Add(s);
-				Debug.Log("Good: " + s);
 				var x = Instantiate(_initialDot);
 				x.transform.position = s;
 				spawn(spawnsSoFar, x.transform.position, depth + 1);
 			}
 		}
-		Debug.Log("No more options.  Must have filled up map");
 	}
 
 	private bool isGood(Vector2 initialV, Vector2 targetV)
