@@ -12,7 +12,7 @@ public class DotSpawning : MonoBehaviour
 	// Use this for initialization
 	void Start () {
 		Debug.Log("Initial dot position: " + _initialDot.transform.position);
-		spawn(new List<Vector2>(), _initialDot.transform.position, 0);
+		//spawn(new List<Vector2>(), _initialDot.transform.position, 0);
 	}
 
 	private void spawn(List<Vector2> spawnsSoFar, Vector2 dot, int depth)
