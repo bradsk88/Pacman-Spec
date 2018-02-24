@@ -36,8 +36,8 @@ public class PlayerMovement : MonoBehaviour
         Debug.DrawLine(_target, _target2);
         groundCheck.transform.position = _target;
         groundCheck2.transform.position = _target2;
-        
         transform.position = Vector2.MoveTowards(transform.position, _target, Speed);
+        
         if (new Vector2(transform.position.x, transform.position.y).Equals(_target))
         {        
             if (_target.Equals(_target2))

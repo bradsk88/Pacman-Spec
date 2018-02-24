@@ -55,6 +55,7 @@
     <Compile Include="Assets\Dot.cs" />
     <Compile Include="Assets\DotSpawning.cs" />
     <Compile Include="Assets\Ghost.cs" />
+    <Compile Include="Assets\MoveToTarget.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\Score.cs" />
     <Reference Include="UnityEngine.UI">

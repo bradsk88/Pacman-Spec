@@ -9,6 +9,7 @@
         <e p="Dot.cs" t="Include" />
         <e p="DotSpawning.cs" t="Include" />
         <e p="Ghost.cs" t="Include" />
+        <e p="MoveToTarget.cs" t="Include" />
         <e p="PlayerMovement.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="Editor" t="Include">
